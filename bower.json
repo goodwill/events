@@ -1,7 +1,7 @@
 {
   "name": "events",
   "main": "events.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://github.com/goodwill/events",
   "authors": [
     "Irakli Gozalishvili <rfobic@gmail.com> (http://jeditoolkit.com)",
